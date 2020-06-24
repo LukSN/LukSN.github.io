@@ -8,3 +8,4 @@ Harry Potter is the main character of the movie "Harry Potter". He is a migican 
 * humble
 
 > I don’t go looking for trouble. Trouble usually finds me.
+<img src="https://www.nat-games.de/wp-content/uploads/2020/06/NAT-Games-Harry-Potter.jpg"/>
