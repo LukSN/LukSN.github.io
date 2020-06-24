@@ -6,3 +6,5 @@ Harry Potter is the main character of the movie "Harry Potter". He is a migican 
 * purposeful
 * smart
 * humble
+
+> I don’t go looking for trouble. Trouble usually finds me.
